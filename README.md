@@ -8,6 +8,7 @@ For Jump : Simple jump <br>
 For Run : Simple Run<br>
 <br>
 video explanation : https://youtu.be/HVCcmBI_59I<br>
+<img src="0001.jpg"/>
 <br>
 If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
 facebook : https://m.facebook.com/proogramminghub<br>
