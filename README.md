@@ -1,4 +1,4 @@
-# real-life-contra
+# Real Life Contra
 
 <h1>Description</h1>
 A python script that translates the body movement into in game control.<br>
